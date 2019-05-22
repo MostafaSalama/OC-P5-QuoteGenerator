@@ -11,4 +11,6 @@ The given tasks included:
 
 Once this was achieved, a second version of the generator was to be made. This second version contained whole sentances on varying topics. The user can choose the topic that they wish to see a quote from, as well as the number of quotes to see at one time.
 
-I chose to only add the first version of the project to my portfolio, as I really enjoyed the theme and styling of this version. All visuals for this version are made purely with CSS.
+I chose to only add the first version of the project to my portfolio, as I really enjoyed the theme and styling of this version.
+
+**All visuals for this version are made purely with CSS.**
