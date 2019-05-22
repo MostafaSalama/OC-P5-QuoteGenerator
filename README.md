@@ -6,7 +6,9 @@ This repo contains *Open Classrooms Project 5 - Quote Generator*. The purpose of
 The given tasks included:
 
 * Generate random quotes when user clicks a button
-* Each quote must contain at least 3 fragments
-* Quotes must still be coherent, despite being fragments
+* Each quote must contain at least 3 fragments pieced together
+* Quotes must still be coherent, despite being fragmented
 
-To view the technical documentation for the project please see the accompanying wiki [here]( https://github.com/TamiMcInnis/OC-P8-EnhanceExistingProject/wiki "technical documentation wiki").
+Once this was achieved, a second version of the generator was to be made. This second version contained whole sentances on varying topics. The user can choose the topic that they wish to see a quote from, as well as the number of quotes to see at one time.
+
+I chose to only add the first version of the project to my portfolio, as I really enjoyed the theme and styling of this version. All visuals for this version are made purely with CSS.
